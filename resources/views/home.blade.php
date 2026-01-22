@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>SiLaras!</h1>
-    <a href="/home">Home</a>
+    <a href="/home">rumah</a>
     <a href="/about">About</a>
 </body>
 </html>
