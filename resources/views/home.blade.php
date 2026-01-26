@@ -14,8 +14,8 @@
             <h1 class="text-xl font-bold text-indigo-600">SiLaras!</h1>
             <div class="space-x-6">
                 <a href="/home" class="hover:text-indigo-600">Home</a>
+                <a href="/report" class="hover:text-indigo-600">Report</a>
                 <a href="/about" class="hover:text-indigo-600">About</a>
-                <a href="#" class="hover:text-indigo-600">Contact</a>
             </div>
         </div>
     </nav>
@@ -24,17 +24,16 @@
     <section class="max-w-7xl mx-auto px-6 py-20 grid md:grid-cols-2 gap-10 items-center">
         <div>
             <h2 class="text-4xl font-extrabold mb-4">
-                Bangun Website Cepat <span class="text-indigo-600">dengan Laravel</span>
+                Laporkan masalah sarana dengan <span class="text-indigo-600">SiLaras!</span>
             </h2>
             <p class="text-gray-600 mb-6">
-                Template sederhana menggunakan Laravel + Tailwind CSS.
-                Cocok untuk landing page, dashboard, atau project kuliah.
+                Selamat datang di SiLaras! (Sistem Laporan Sarana Sekolah!). Diwebsite ini, kalian bisa memberikan laporan seputar masalah sarana yg terjadi di sekolah.
             </p>
             <div class="space-x-4">
-                <a href="#" class="bg-indigo-600 text-white px-6 py-3 rounded-lg hover:bg-indigo-700">
-                    Get Started
+                <a href="/report" class="bg-indigo-600 text-white px-6 py-3 rounded-lg hover:bg-indigo-700">
+                    Buat Laporan!
                 </a>
-                <a href="#" class="border border-indigo-600 text-indigo-600 px-6 py-3 rounded-lg hover:bg-indigo-50">
+                <a href="/about" class="border border-indigo-600 text-indigo-600 px-6 py-3 rounded-lg hover:bg-indigo-50">
                     Learn More
                 </a>
             </div>
@@ -53,15 +52,15 @@
             <div class="grid md:grid-cols-3 gap-8">
                 <div class="p-6 border rounded-xl hover:shadow-lg transition">
                     <h4 class="font-bold text-lg mb-2">🚀 Cepat</h4>
-                    <p class="text-gray-600">Tailwind bikin styling super cepat tanpa ribet CSS.</p>
+                    <p class="text-gray-600">Buat laporan mengenai sarana sekolah secara cepat.</p>
                 </div>
                 <div class="p-6 border rounded-xl hover:shadow-lg transition">
                     <h4 class="font-bold text-lg mb-2">🎨 Modern</h4>
-                    <p class="text-gray-600">Desain clean dan responsive di semua device.</p>
+                    <p class="text-gray-600">Buat laporan gk perlu langhsung ke ruang guru, lakuin aja secara online.</p>
                 </div>
                 <div class="p-6 border rounded-xl hover:shadow-lg transition">
                     <h4 class="font-bold text-lg mb-2">⚙️ Mudah</h4>
-                    <p class="text-gray-600">Struktur Laravel rapi dan gampang dikembangkan.</p>
+                    <p class="text-gray-600">Buat laporan mengenai sarana secara mudah dan instan.</p>
                 </div>
             </div>
         </div>
