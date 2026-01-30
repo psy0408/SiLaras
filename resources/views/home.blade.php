@@ -13,7 +13,7 @@
         <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
             <h1 class="text-xl font-bold text-indigo-600">SiLaras!</h1>
             <div class="space-x-6">
-                <a href="/home" class="hover:text-indigo-600">Home</a>
+                <a href="/home" class="hover:text-indigo-600">Rumah</a>
                 <a href="/report" class="hover:text-indigo-600">Report</a>
                 <a href="/about" class="hover:text-indigo-600">About</a>
             </div>
